@@ -3,7 +3,7 @@
 **Turning raw restaurant data into money-making business insights using pure SQL!**
 
 ## 👨‍💻 About Me
-I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in ** DATA ANALYSIS **. 
+I’m **Madhu sudhan**, from **Innomatics Research Labs**, with a strong interest in ** DATA ANALYSIS **. 
 I enjoy exploring real-world datasets to uncover insights that support better business strategies.
 
 📎 **Full Project Presentation**: [SQL_Project PPT.pptx](D:\BATCH 427 A\My SQL Project\SQL_Project PPT.pptx) (included in repo)
@@ -62,8 +62,8 @@ Built a complete relational database and used **advanced SQL only** to answer re
 ---
 
 ### 🏷️ Author
-**Buddepu Vivek**  
+**Madhu sudhan**  
 📍 Data Analyst | Innomatics Research Labs  
-📧 [buddepuvivek2001@gmail.com]  
-🔗 [https://www.linkedin.com/in/buddepu-vivek/]
+📧 [mvmadhusudhan23@gmail.com]  
+🔗 [https://www.linkedin.com/in/mangali-madhu-sudhan/]
 
